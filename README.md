@@ -8,7 +8,7 @@
 ## You can see my code structure and development process for now
 
 <div id="badges">
-  <a href="https://www.tg.com/frxmthe17">
+  <a href="https://web.telegram.org/a/#1132169127">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
