@@ -3,14 +3,8 @@
 </h1>   
 
 <h3 align="center">
-  I have nothing to present yet, but I think I will finish it soon and post everything.
+  Trying make anything on golang
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="80px" height="80px"/>
-  
-</h3>   
-
-<h3 align="center">
-  You can see my code structure and development process for now
-<img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="80px" height="80px"/>
 </h3>   
 
 <div id="badges" align="center">
