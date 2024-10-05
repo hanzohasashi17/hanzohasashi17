@@ -1,11 +1,6 @@
 <h1>
   Hi, my name is Aidos. 
 </h1>   
-<h3 align="center">
-  I am currently developing several projects on Android 
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80px" height="80px"/>
-  
-</h3>
 
 <h3 align="center">
   I have nothing to present yet, but I think I will finish it soon and post everything.
